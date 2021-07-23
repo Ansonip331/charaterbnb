@@ -1,0 +1,68 @@
+h1{
+	clolor: blue;
+font-size: 100%;
+}
+#HomepageBanner{
+	width: 100%;
+	padding: 0px;
+	position: relative;
+	z-index: -1;
+}
+*{
+	margin: 0;
+	padding: 0;
+	border: 2px black;
+
+}
+
+
+body{font-family: 'Tourney', cursive;text-align: center;} a{text-decoration: none;}
+
+
+.Img{ width: 500px; 
+height: 250px;
+object-fit: cover;
+border-radius: 25px;
+box-shadow: 5px 5px 10px gray;
+display: flex;}
+li{
+	list-style-type: none;
+	line line-height: 30px;
+	border: solid antiquewhite;
+	padding: 25px;
+}
+#head{
+	 display: flex;
+}
+#Pic{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+
+}
+#Pop{
+	font-size: 150px;
+}
+#head> h2, h1 {
+	position: absolute;
+
+}
+#bot>h1{ font-size: 100px;
+	top: 30%;
+	left: 20%;
+	color: lightgoldenrodyellow;
+}
+#g{ font-size: 50px;
+	top: 50%;
+	left: 50%;
+} #head > h2{
+	background-color: white;
+color: black;
+border: 2px solid yellow; 
+}
+#one{
+	font-size: 100px;
+	top: 30%;
+	left: 2%;
+	color: aqua;
+}
